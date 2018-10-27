@@ -30,7 +30,7 @@ User Journeys (Choose 1 out of 5)
 -----
 - Pet Owner / Animal Enthusiast
   + As a new user I go to the platform and watch a video
-  + As a returning user I go to the platform and resume watching a video
+  + As a returning user I go to the platform and resume watching a video (@NoureldeanSaed)
   + As a returning user I want to find relevant content
 - Charity stakeholder
   + As a charity stakeholder I want users to make donations to my charity
